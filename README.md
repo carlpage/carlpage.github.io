@@ -1,4 +1,4 @@
-# my-personal-site
+# carlpage.github.io
 
 ## Project setup
 ```
